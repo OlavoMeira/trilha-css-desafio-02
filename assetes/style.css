@@ -1,0 +1,38 @@
+ /* header da  minha pagina!*/
+ .menu{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ img {
+    margin: 10px;
+}
+
+/* main da minha pagina! */
+
+iframe{
+    width: 900px;
+    height: 500px;
+}
+
+.container{
+    display: inline-flex;
+    
+}
+
+
+.sidebar div{
+    display: inline-block;
+    flex-direction: column;
+    
+}
+
+
+.interacao {
+    display: inline;
+}
+
+
+
+/* footer da minha pagina*/
